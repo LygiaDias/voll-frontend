@@ -53,7 +53,7 @@ A aplicação tem dois dados para login registrados, um do administrador onde é
 
 ### Repositório do backend da aplicação
 
-`git@github.com:LygiaDias/voll-solutions-backend.git`
+`https://github.com/LygiaDias/voll-solutions-backend`
 
 
 Volte sempre!
